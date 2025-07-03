@@ -34,6 +34,7 @@ This repository contains Terraform Infrastructure as Code (IaC) scripts to provi
    
 2. Initialize Terraform
 Download necessary provider plugins and initialize the environment:
+Also in provider.tf put your user access key of provide and also also secret acces key 
 
 #bash
 terraform init
